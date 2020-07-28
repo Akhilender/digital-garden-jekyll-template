@@ -8,12 +8,10 @@ permalink: /
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first seed]]</span> to get started on your exploration.
+  My name is Akhilender Jeet Singh. Feel free to roam around. Any kind of feedback is appreciated. You can DM me [F1killua](https://twitter.com/F1killua){:target="_blank"}
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@F1killua)](https://twitter.com/F1killua). Say hi! 👋
 
 <style>
   .wrapper {
