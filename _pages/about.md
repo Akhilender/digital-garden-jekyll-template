@@ -4,6 +4,8 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+Hey Everyone, I'm Akhilender Jeet Singh Bana. I'm a PhD student at IIT Bombay, India. My research field is **Cu2O photocathode for hydrogen production**. Sounds complicated? Let me simplify it for you. I deposit Cu2O -- a semiconductor -- onto a conductive glass. Then I dip it into water and shine sunlight on it. Ideally, it would produce H2 bubbles on its surface. These H2 bubbles will be captured over time and will be stored in a cylinder where it can be used as fuel for the fuel cell cars. My job is to improve efficiency of these Cu2O films. 
 
-Feel free to tell the world about what you love! 😍
+Apart from my research work, I'm learning front-end web development. My aim is to make notes on whatever I learn and share it worldwide. And if I found it useful, then maybe someone else will too.   
+
+Feel free to DM me on [Twitter](https://twitter.com/F1killua) 😊 

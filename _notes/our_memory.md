@@ -1,13 +1,15 @@
 ---
-title: Why You Should Take Notes
+title: A Little Bit About Our Memory
 ---
 
  We come across tons of information in a single day and it is not just limited to a few categories/genre -- thanks to our addiction to information technology and its little gadgets. But really, at the end of day how much of information are we able to contain in our brain ? Is it possible that we can run out of space ? Well, not really! According to Prof. Paul Reber (Dept. of Psychology, Northwestern University), the human brain contains billions of neurons and by interacting with each other, these neurons are able to store information equivalent to 2.5 Petabytes (i.e. you can record 3 million hours of TV show). So, now we know that storage is really not an issue for humans. Then, why do we struggle to remember the name of the persons we made a new acquaintance with a couple of days ago? This is something I'm sure a lot of people find really annoying. Well, we are able to store the information but do not try to retain that information which ultimately results in slipping away from our memory. The amount of retention lost with time is given by "The Forgetting Curve" as given below. Interestingly, the curve is not a linear one, instead it is exponential. Also, the retention will be even lower for trivial tasks such as type of food taken during breakfast/lunch/dinner etc because we do not assume it something important. In general, anything that we find ordinary, will be slipping faster than anything important.   
+
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkillua_research%2FYUo2PCwpmq.png?alt=media&token=6ca69a6b-ae2e-4011-b93a-ff439fc1b291)
+
 Now, most people find it frustrating when they are not able to remember something. Some even wish they had a superpower of retaining everything. Well, it is a good thing that very few people in this world can do that. Source. Now, you must be wondering why it is a good thing. Let me explain, if for some reason, we could retain all the information in our brain throughout our lifetime, life would have become very difficult to live. Along with the moments of proud, joy, excitement, happiness, we come across moments of embarrassment, dullness sadness. If our brain don't let these moments go away, we will find ourselves in depression sooner or later.   
 So, what can we do to improve our retention capacity. Although, there are several books on How to Improve Your Memory Power. One simple thing that most of us can do is using spaced repetition system (SRS). The idea is to repeat the learning material at a spaced interval as shown in the figure below. The good thing about this system is that the interval length(e.g. no. of days after which you are supposed to revise the material) keeps increasing. Therefore, you'll have to revise the material less and less with time. More details can be found here. Also, there are many cross-platform apps built on this method. The one is use is AnkiDroid. 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkillua_research%2FE2rcVEGtpS.png?alt=media&token=10484ecc-5247-47bf-a9f7-7a4ac471a810)
-So, apart from using SRS system, what can we do to retain more information from our brain ? The answer is Taking Smart Notes 
+So, apart from using SRS system, what can we do to retain more information from our brain ? The answer is Taking Smart Notes.
 
 
 
