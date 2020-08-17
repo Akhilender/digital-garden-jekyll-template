@@ -14,7 +14,7 @@ permalink: /
 </p>
 
 Here are the notes:
- 
+
 [A little bit about our memory](/our_memory)
 
 [Parkinson's law](/parkinsons_law)
@@ -22,6 +22,6 @@ Here are the notes:
 
 <style>
   .wrapper {
-    max-width: 46em;
+    max-width: 50em; /* original 46em */
   }
 </style>
