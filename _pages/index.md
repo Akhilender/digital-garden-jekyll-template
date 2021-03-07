@@ -19,6 +19,8 @@ Here are the notes:
 
 [Parkinson's law](/parkinsons_law)
 
+[Tools for researchers](/tools_researchers)
+
 
 <style>
   .wrapper {
