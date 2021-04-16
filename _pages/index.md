@@ -21,6 +21,7 @@ Here are the notes:
 
 [Tools for researchers](/tools_researchers)
 
+[List of my favourite articles](/favourite_articles)
 
 <style>
   .wrapper {

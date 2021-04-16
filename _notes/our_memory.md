@@ -9,7 +9,7 @@ title: A Little Bit About Our Memory
 Now, most people find it frustrating when they are not able to remember something. Some even wish they had a superpower of retaining everything. Well, it is a good thing that very few people in this world can do that. Source. Now, you must be wondering why it is a good thing. Let me explain, if for some reason, we could retain all the information in our brain throughout our lifetime, life would have become very difficult to live. Along with the moments of proud, joy, excitement, happiness, we come across moments of embarrassment, dullness sadness. If our brain don't let these moments go away, we will find ourselves in depression sooner or later.   
 So, what can we do to improve our retention capacity. Although, there are several books on How to Improve Your Memory Power. One simple thing that most of us can do is using spaced repetition system (SRS). The idea is to repeat the learning material at a spaced interval as shown in the figure below. The good thing about this system is that the interval length(e.g. no. of days after which you are supposed to revise the material) keeps increasing. Therefore, you'll have to revise the material less and less with time. More details can be found here. Also, there are many cross-platform apps built on this method. The one is use is AnkiDroid. 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkillua_research%2FE2rcVEGtpS.png?alt=media&token=10484ecc-5247-47bf-a9f7-7a4ac471a810)
-So, apart from using SRS system, what can we do to retain more information from our brain ? The answer is Taking Smart Notes.
+So, apart from using SRS system, what can we do to retain more information from our brain ? The answer is Take Smart Notes.
 
 
 
