@@ -39,4 +39,4 @@ If you want to know more about me, here is my personal user manual inspired from
 
 
 
-Feel free to DM me on [Twitter](https://twitter.com/F1killua) 😊 
+Feel free to DM me on [Twitter](https://twitter.com/F1killua){:target="\_blank"} 😊 
