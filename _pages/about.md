@@ -11,7 +11,7 @@ Apart from my research work, I'm learning front-end web development. My aim is t
 If you want to know more about me, here is my personal user manual inspired from [Julia Saxena](https://twitter.com/julia_saxena)
 
 --- 
-
+<!-- 
 # What are some honest, unfiltered things about me?
 
 ## What drives me nuts?
@@ -32,7 +32,7 @@ If you want to know more about me, here is my personal user manual inspired from
 
 # How do I like to give feedback?
 
-# How do I like to get feedback?
+# How do I like to get feedback? -->
 
 ---
 
