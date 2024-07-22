@@ -8,8 +8,9 @@ permalink: /
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  My name is Akhilender Jeet Singh. I'm a PhD student at Indian Institute of Technology, Bombay, India. <br>
-  Welcome to my digital garden!!
+  My name is Akhilender Jeet Singh Bana.  <br>
+  Welcome to my digital garden!! <br>
+  <br>
   Feel free to roam around. Feedback is much appreciated.
 </p>
 
@@ -22,6 +23,8 @@ Here are the notes:
 [Tools for researchers](/tools_researchers)
 
 [List of my favourite articles](/favourite_articles)
+
+<!-- [Sunday Read - 20 Aug, 2023](/sunday_read_20_Aug_2023) -->
 
 <style>
   .wrapper {
